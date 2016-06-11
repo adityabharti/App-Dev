@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Restaurant App</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">Enter your name</string>
+    <string name="user_degree">Enter degree</string>
+    <string name="user_branch">Enter branch</string>
+    <string name="roll_no">Enter table no</string>
+    <string name="button_send">Submit</string>
+    <string name="title_activity_display_message">Bill</string>
+
+    <string-array name="planets_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+
+    <string name="title_activity_main2">Welcome</string>
+
+</resources>
